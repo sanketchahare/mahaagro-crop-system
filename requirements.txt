@@ -1,0 +1,17 @@
+streamlit
+tensorflow
+pandas
+numpy
+scikit-learn
+pillow
+opencv-python-headless
+pymongo
+requests
+matplotlib
+plotly
+python-dotenv
+bcrypt
+google-generativeai
+openai>=1.0.0
+pymongo
+dnspython
